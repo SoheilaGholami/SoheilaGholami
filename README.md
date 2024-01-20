@@ -1,5 +1,19 @@
 ![](/banner.png)
-##
+## Connect with me:
+
+
+<div style="padding-left:35px" id="badges">
+  <a href="https://github.com/soheilagholami">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/soheila-gholami/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+  <a href="mailto:s.gholami1995@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
 
 ## skills
 <div >
