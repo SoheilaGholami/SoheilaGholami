@@ -5,9 +5,22 @@
 
 <div style="padding-left:35px" id="badges" align="center">
   <h2>About me</h2>
-  <p></p>
-</div>
+  <ul>
+     <li>Energetic person, with perseverance in learning and implementing what has been learned. </li>
+<li>Created custom UI templates for a company.</li>
+<li>Currently working on booking hotel app</li> 
+<li>Currently learning react-redux.</li>
+<li>Also, a software engineering graduate.</li>
+  
 
+  </ul>
+</div>
+<div style="padding-left:35px" align="center" >
+  <h2>Skills</h2>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mui,bootstrap,tailwind,vscode,git,figma&perline=15" />
+</a>
+</div>
 <div   align="center">
   <h2>Connect with me</h2>
   <a href="https://github.com/soheilagholami">
@@ -23,12 +36,7 @@
 
 
 
-<div style="padding-left:35px" align="center" >
-  <h2>Skills</h2>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,mui,bootstrap,tailwind,vscode,git,figma&perline=15" />
-</a>
-</div>
+
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=soheilagholami&layout=donut&https://https://github.com/SoheilaGholami/github-readme-stats&theme=tokyonight' width='54%' height='190'>
 
 <!--
