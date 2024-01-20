@@ -3,8 +3,8 @@
 <br></br>
 
 
-<div style="padding-left:35px" id="badges" align="center">
-  <h2>About me</h2>
+<div style="padding-left:35px" id="badges" >
+  <h2 align="center">About me</h2>
   <ul>
      <li>Energetic person, with perseverance in learning and implementing what has been learned. </li>
 <li>Created custom UI templates for a company.</li>
