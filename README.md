@@ -1,10 +1,15 @@
 ![](/banner.png)
 
 <br></br>
-## Connect with me:
 
 
-<div style="padding-left:35px" id="badges">
+<div style="padding-left:35px" id="badges" align="center">
+  <h2>About me</h2>
+  <p></p>
+</div>
+
+<div   align="center">
+  <h2>Connect with me</h2>
   <a href="https://github.com/soheilagholami">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
   </a>
@@ -17,8 +22,9 @@
 </div>
 
 
-## skills
-<div >
+
+<div style="padding-left:35px" align="center" >
+  <h2>Skills</h2>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,mui,bootstrap,tailwind,vscode,git,figma&perline=15" />
 </a>
