@@ -7,7 +7,7 @@
   <h2 align="center">About me</h2>
   <ul>
      <li>Energetic person, with perseverance in learning and implementing what has been learned. </li>
-<li>Created custom UI templates for a company.</li>
+<li>Created some custom UI templates for a company.</li>
 <li>Currently working on booking hotel app</li> 
 <li>Currently learning react-redux.</li>
 <li>Also, a software engineering graduate.</li>
@@ -36,8 +36,11 @@
 
 
 
+<div align="center">
+  <h2>GitHub stats</h2>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=soheilagholami&layout=donut&https://https://github.com/SoheilaGholami/github-readme-stats&theme=tokyonight' width='54%' height='190'>
+</div>
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=soheilagholami&layout=donut&https://https://github.com/SoheilaGholami/github-readme-stats&theme=tokyonight' width='54%' height='190'>
 
 <!--
 **SoheilaGholami/SoheilaGholami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
