@@ -1,5 +1,12 @@
 ![](/banner.png)
+##
 
+## skills
+<div >
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,angular,vue,react,vscode,linux,git,figma&perline=8" />
+</a>
+</div>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=soheilagholami&layout=donut&https://https://github.com/SoheilaGholami/github-readme-stats&theme=tokyonight' width='54%' height='190'>
 
 <!--
