@@ -1,6 +1,8 @@
 ## Hi there 👋, I'm Soheila Gholami
 #### A front-end developer
 
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=soheilagholami&layout=donut&https://https://github.com/SoheilaGholami/github-readme-stats&theme=tokyonight' width='54%' height='190'>
+
 <!--
 **SoheilaGholami/SoheilaGholami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
