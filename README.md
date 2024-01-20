@@ -4,7 +4,7 @@
 ## skills
 <div >
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,mui,bootstrap,tailwind,vscode,git,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mui,bootstrap,tailwind,vscode,git,figma&perline=15" />
 </a>
 </div>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=soheilagholami&layout=donut&https://https://github.com/SoheilaGholami/github-readme-stats&theme=tokyonight' width='54%' height='190'>
