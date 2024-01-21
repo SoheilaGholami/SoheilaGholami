@@ -36,10 +36,10 @@
 
 
 
-<div align="center">
+<!--<div align="center">
   <h2>GitHub stats</h2>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=soheilagholami&layout=donut&https://https://github.com/SoheilaGholami/github-readme-stats&theme=tokyonight' width='54%' height='190'>
-</div>
+</div>-->
 
 
 <!--
